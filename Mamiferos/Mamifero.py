@@ -11,6 +11,3 @@ class Mammal:
             print(f"Yes is {born}")
         
         
-perro=Mammal(4)
-perro.isborning()
-print(perro.numlegsw)
