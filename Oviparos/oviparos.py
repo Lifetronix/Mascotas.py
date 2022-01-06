@@ -18,6 +18,3 @@ class Oviparous:
         else:
             print(f"No is {born}")
         
-pez = Oviparous(0)
-pez.isborning()
-print(pez.numlegsw)
