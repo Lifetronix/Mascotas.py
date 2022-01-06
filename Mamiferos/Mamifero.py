@@ -11,6 +11,6 @@ class Mammal:
             print(f"Yes is {born}")
         
         
-perro=Mamifero(4)
+perro=Mammal(4)
 perro.isborning()
 print(perro.numlegsw)
