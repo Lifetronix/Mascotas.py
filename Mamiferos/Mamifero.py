@@ -1,4 +1,4 @@
-class Mamifero:
+class Mammal:
     def __init__(self,numlegsw):
         self.numlegsw=numlegsw
         self.drinkMilk=True
